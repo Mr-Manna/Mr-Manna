@@ -10,5 +10,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Manna&count_private=true&hide=contribs,prs)
-)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Manna&count_private=true&hide=contribs,prs&show_icons=true&theme=radical)
+
